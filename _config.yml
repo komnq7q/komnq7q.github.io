@@ -1,0 +1,17 @@
+# Site settings
+title: "HELLYEAHPLAY VOD's"
+url: "59cmvwd.github.io"
+baseurl: "/"
+
+exclude:
+  - LICENSE
+
+# pages
+paginate: 20
+paginate_path: "/page-:num/"
+
+# Build settings
+markdown: kramdown
+permalink: /post/:title
+plugins:
+  - jekyll-paginate
