@@ -1,0 +1,55 @@
+---
+layout:   post
+title:    "WASD VOD"
+title_jp: ""
+poster:   
+episodes: ""
+genres:
+  - 
+description: >-
+  <p></p>
+---
+
+
+<script>
+    var series = {
+        "WASD VOD": [
+{"title":"20200204 231624 169886 HellYeahPlay WASD Batman Arkham Asylum","url":"https://vk.com/video_ext.php?oid=-174910236&id=456241062&hash=c4ca97c62924f4ad"},
+{"title":"20200205 231624 169886 HellYeahPlay WASD Batman Arkham Asylum mp4","url":"https://vk.com/video_ext.php?oid=-174910236&id=456241063&hash=f8156459c015f14d"},
+{"title":"20200207235451 169886 HellYeahPlay WASD Batman Arkham Asylum","url":"https://vk.com/video_ext.php?oid=-174910236&id=456241072&hash=537ca362480ad748"},
+{"title":"20200211235426 169886 HellYeahPlay WASD","url":"https://vk.com/video_ext.php?oid=-174910236&id=456241074&hash=7420e992e2eeaef3"},
+{"title":"20200212331426 169886 HellYeahPlay WASD Batman Arkham City","url":"https://vk.com/video_ext.php?oid=-174910236&id=456241075&hash=fc687ff5bffe4c46"},
+{"title":"20200214231826 169886 HellYeahPlay WASD Batman Arkham City","url":"https://vk.com/video_ext.php?oid=-174910236&id=456241076&hash=8c91673833bdada5"},
+{"title":"20200220232126 169886 HellYeahPlay WASD Batman Arkham City","url":"https://vk.com/video_ext.php?oid=-174910236&id=456241078&hash=70306783fef75b57"},
+{"title":"20200221232300 169886 HellYeahPlay WASD The Binding of Isaac Rebirth","url":"https://vk.com/video_ext.php?oid=-174910236&id=456241077&hash=ca0ed222554ec4a0"},
+{"title":"20200225212300 169886 HellYeahPlay WASD The Binding of Isaac Rebirth","url":"https://vk.com/video_ext.php?oid=-174910236&id=456241082&hash=887a5ff48d68310a"},
+{"title":"20200226184200 169886 HellYeahPlay WASD The Binding of Isaac Rebirth","url":"https://vk.com/video_ext.php?oid=-174910236&id=456241081&hash=ed40c5aca8b3748d"},
+{"title":"20200227235400 169886 HellYeahPlay WASD КАЛИБР","url":"https://vk.com/video_ext.php?oid=-174910236&id=456241115&hash=dd916b362fbc5ef7"},
+{"title":"20200227235400 169886 HellYeahPlay WASD КАЛИБР битое","url":"https://vk.com/video_ext.php?oid=-174910236&id=456241079&hash=90b1a7dba04b5b98"},
+{"title":"20200302040400 169886 HellYeahPlay WASD (( Wizard of Legend ))","url":"https://vk.com/video_ext.php?oid=-174910236&id=456241089&hash=39f4d2c6e1e803c3"},
+{"title":"20200304232700 169886 HellYeahPlay WASD Wizard of Legend","url":"https://vk.com/video_ext.php?oid=-174910236&id=456241091&hash=81ef93f506699d4f"}
+
+        ],
+
+        "WASD VOD": [
+{"title":"wasd20200205","url":"https://vk.com/video_ext.php?oid=-174910236&id=456241096&hash=42f15e0ef0346878"},
+{"title":"wasd20200206","url":"https://vk.com/video_ext.php?oid=-174910236&id=456241100&hash=b7e9a41451c21fff"},
+{"title":"wasd20200207","url":"https://vk.com/video_ext.php?oid=-174910236&id=456241101&hash=dfbb6c629152f26b"},
+{"title":"wasd20200212","url":"https://vk.com/video_ext.php?oid=-174910236&id=456241102&hash=8fc9fe5254f2a829"},
+{"title":"wasd20200213","url":"https://vk.com/video_ext.php?oid=-174910236&id=456241104&hash=4603ba7a1d62c9bb"},
+{"title":"wasd20200214","url":"https://vk.com/video_ext.php?oid=-174910236&id=456241103&hash=3e857a7532f09448"},
+{"title":"wasd20200215","url":"https://vk.com/video_ext.php?oid=-174910236&id=456241107&hash=94525bb7bc15a1bb"},
+{"title":"wasd20200219 1","url":"https://vk.com/video_ext.php?oid=-174910236&id=456241098&hash=dcbd0e69ed6b6298"},
+{"title":"wasd20200219 2","url":"https://vk.com/video_ext.php?oid=-174910236&id=456241105&hash=203cc0e69d4221e6"},
+{"title":"wasd20200221","url":"https://vk.com/video_ext.php?oid=-174910236&id=456241110&hash=f6fd8bbe36723bb3"},
+{"title":"wasd20200222","url":"https://vk.com/video_ext.php?oid=-174910236&id=456241109&hash=f8a36f39f0561c16"},
+{"title":"wasd20200225","url":"https://vk.com/video_ext.php?oid=-174910236&id=456241108&hash=1cec6aa1736bddf1"},
+{"title":"wasd20200226","url":"https://vk.com/video_ext.php?oid=-174910236&id=456241106&hash=e2cc43f4eb398329"},
+{"title":"wasd20200227","url":"https://vk.com/video_ext.php?oid=-174910236&id=456241112&hash=e9ed95fbdd08b94e"},
+{"title":"wasd20200303","url":"https://vk.com/video_ext.php?oid=-174910236&id=456241111&hash=6c6f3a92287f871a"},
+{"title":"wasd20200304","url":"https://vk.com/video_ext.php?oid=-174910236&id=456241113&hash=a15376a364b559ea"}
+
+        ],
+
+    };
+</script>
